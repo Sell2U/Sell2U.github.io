@@ -16,7 +16,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 #
 
 # Includes an icon in the footer for each username you enter
-footer-links: http://sell2u.github.io
+footer-links:
   dribbble: 
   email: zhang.neal@gmail.com
   facebook: #https://www.facebook.com/zhangneal
