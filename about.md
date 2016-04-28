@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about myself!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am an analyst for a landbase and social casino games. I also play some CoC and casual games. I am passioned about game data.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Neal Zhang](mailto:zhang.neal@gmail.com)
